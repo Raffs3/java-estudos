@@ -42,4 +42,4 @@ O projeto contém várias classes com exercícios práticos divididos por módul
 
 ## 🎯 Objetivo
 
-Consolidar os conhecimentos de lógica de programação em Java por meio de código limpo (*Clean Code*) e forte base prática, construindo gradualmente o portfólio para futuros estudos em Orientação a Objetos e arquitetura de sistemas.
+Consolidar os conhecimentos de lógica de programação em Java por meio de código limpo *Clean Code* e base prática, construindo gradualmente o portfólio para futuros estudos em Orientação a Objetos e arquitetura de sistemas.
