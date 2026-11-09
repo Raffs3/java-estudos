@@ -1,13 +1,12 @@
-# Java Estudos - Fundamentos, Tipos Primitivos e Operadores
+# Java Estudos - Fundamentos, Tipos Primitivos, Operadores e Estruturas de Decisão
 
-Este repositório reúne meus estudos iniciais em Java, utilizando o JDK 21. O foco é praticar os fundamentos da linguagem, compreender o funcionamento dos tipos de dados, aplicar operadores lógicos/matemáticos e desenvolver boas práticas de organização e versionamento com Git.
-
-Os exercícios foram desenvolvidos para aplicar os conceitos estudados em diferentes situações práticas, reforçando a lógica de programação e a familiaridade com a linguagem.
+Este repositório reúne meus estudos iniciais em Java, utilizando o JDK 21. O foco é praticar os fundamentos da linguagem, compreender o funcionamento dos dados, aplicar operadores lógicos e dominar o fluxo de controle através de estruturas de decisão, mantendo práticas de organização e versionamento com Git.
 
 ## 📂 Exercícios Desenvolvidos
 
-O projeto contém classes com exercícios práticos envolvendo manipulação de dados, operações matemáticas, cálculos e lógica de programação:
+O projeto contém várias classes com exercícios práticos divididos por módulos:
 
+### 🔹 Fundamentos, Tipos Primitivos e Operadores
 - **AprovacaoEscolar:** Cálculo de média de notas e validação de aprovação utilizando operadores aritméticos e relacionais.
 - **CadastroDeProdutos:** Simulação de cadastro e controle de produtos utilizando `String`, `long`, `double`, `int`, `boolean` e `char`.
 - **CalculadoraDeDespesas:** Controle de despesas mensais e cálculo de saldo restante utilizando `double`.
@@ -25,6 +24,16 @@ O projeto contém classes com exercícios práticos envolvendo manipulação de 
 - **VariaveisExemplos:** Exercícios iniciais e anotações sobre variáveis, tipos primitivos e `String`.
 - **VerificadorDeDesconto:** Validação de regras de negócio combinando operadores relacionais e lógicos para aplicação de descontos.
 
+### 🔹 Estruturas de Decisão e Controle de Fluxo
+- **AprovacaoEmprestimo:** Validação avançada com condicionais aninhadas e operadores lógicos para aprovação de crédito.
+- **CalculadoraDeImposto:** Aplicação de lógica condicional progressiva para cálculo de faixas de imposto e salário líquido.
+- **CalculadoraSimples:** Simulação de operações matemáticas utilizando seleções com `switch`.
+- **ClassificacaoDeNotas:** Encadeamento de múltiplos `if / else if / else` para faixas de desempenho escolar.
+- **ClassificadorIMC:** Cálculo de índice de massa corporal com múltiplas condições para diagnóstico de peso.
+- **ControleFluxoExemplo:** Demonstração prática do uso de desvios condicionais simples.
+- **JogoAdivinhacao:** Lógica de comparação de palpites contra um número secreto utilizando operadores relacionais.
+- **MenuDeOpcoes:** Simulação de menu de atendimento bancário utilizando estrutura `switch` com tratamento adequado de quebras de fluxo.
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagem:** Java (JDK 21 - Eclipse Temurin)
@@ -33,4 +42,4 @@ O projeto contém classes com exercícios práticos envolvendo manipulação de 
 
 ## 🎯 Objetivo
 
-Consolidar os conhecimentos fundamentais de Java por meio da prática, desenvolvendo gradualmente a lógica de programação e construindo uma base para estudos futuros em programação orientada a objetos e desenvolvimento de aplicações.
+Consolidar os conhecimentos de lógica de programação em Java por meio de código limpo (*Clean Code*) e forte base prática, construindo gradualmente o portfólio para futuros estudos em Orientação a Objetos e arquitetura de sistemas.
