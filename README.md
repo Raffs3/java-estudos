@@ -1,6 +1,6 @@
-# Java Estudos - Fundamentos, Tipos Primitivos, Operadores e Estruturas de Decisão
+# Java Estudos - Fundamentos, Tipos Primitivos, Operadores, Estruturas de Decisão e Laços de Repetição
 
-Este repositório reúne meus estudos iniciais em Java, utilizando o JDK 21. O foco é praticar os fundamentos da linguagem, compreender o funcionamento dos dados, aplicar operadores lógicos e dominar o fluxo de controle através de estruturas de decisão, mantendo práticas de organização e versionamento com Git.
+Este repositório reúne meus estudos práticos em Java, utilizando o JDK 21. O foco é praticar os fundamentos da linguagem, compreender o funcionamento dos dados, aplicar operadores lógicos e dominar o fluxo de controle através de estruturas de decisão e laços de repetição aplicados a cenários reais de negócio, mantendo boas práticas de organização e versionamento com Git.
 
 ## 📂 Exercícios Desenvolvidos
 
@@ -33,6 +33,17 @@ O projeto contém várias classes com exercícios práticos divididos por módul
 - **ControleFluxoExemplo:** Demonstração prática do uso de desvios condicionais simples.
 - **JogoAdivinhacao:** Lógica de comparação de palpites contra um número secreto utilizando operadores relacionais.
 - **MenuDeOpcoes:** Simulação de menu de atendimento bancário utilizando estrutura `switch` com tratamento adequado de quebras de fluxo.
+
+### 🔹 Estruturas de Repetição (Laços: For, While, Do-While)
+- **SimuladorDeJurosCompostos:** Simulação de crescimento patrimonial mês a mês utilizando laço `for`.
+- **TabelaDeAmortizacaoEmprestimo:** Cálculo de financiamento decrescente com amortização mensal via ciclo `for`.
+- **EstatisticasDeVendasAnuais:** Processamento de dados de faturamento para encontrar picos e médias com `for`.
+- **SistemaDeLogin:** Autenticação interativa com limite estrito de tentativas usando `while`.
+- **ControleDeEstoqueMinimo:** Monitorização e baixa de inventário em armazém baseada em condições contínuas com `while`.
+- **JogoAdivinhacaoComTentativas:** Mini-jogo dinâmico de adivinhação com contagem de palpites via `while`.
+- **CaixaEletronico:** Terminal bancário interativo com operações de saldo, depósito e saque estruturado em `do-while` e `switch`.
+- **CalculadoraDeIMCClinica:** Sistema de triagem contínua para múltiplos pacientes com loop de repetição garantida `do-while`.
+- **GerenciadorDeTarefas:** Lista de afazeres (*To-Do List*) baseada em terminal utilizando `ArrayList`, menus persistentes e gestão de índices.
 
 ## 🛠️ Tecnologias e Ferramentas
 
