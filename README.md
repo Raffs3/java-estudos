@@ -1,6 +1,6 @@
-# Java Estudos - Fundamentos, Tipos Primitivos, Operadores, Estruturas de Decisão e Laços de Repetição
+# Java Estudos - Fundamentos, Tipos Primitivos, Operadores, Estruturas de Decisão, Laços de Repetição e Modularização
 
-Este repositório reúne meus estudos práticos em Java, utilizando o JDK 21. O foco é praticar os fundamentos da linguagem, compreender o funcionamento dos dados, aplicar operadores lógicos e dominar o fluxo de controle através de estruturas de decisão e laços de repetição aplicados a cenários reais de negócio, mantendo boas práticas de organização e versionamento com Git.
+Este repositório reúne meus estudos práticos em Java, utilizando o JDK 21. O foco é praticar os fundamentos da linguagem, compreender o funcionamento dos dados, aplicar operadores lógicos, dominar o fluxo de controle e modularizar o código através de métodos estáticos aplicados a cenários reais de negócio, mantendo boas práticas de organização e versionamento com Git.
 
 ## 📂 Exercícios Desenvolvidos
 
@@ -44,6 +44,12 @@ O projeto contém várias classes com exercícios práticos divididos por módul
 - **CaixaEletronico:** Terminal bancário interativo com operações de saldo, depósito e saque estruturado em `do-while` e `switch`.
 - **CalculadoraDeIMCClinica:** Sistema de triagem contínua para múltiplos pacientes com loop de repetição garantida `do-while`.
 - **GerenciadorDeTarefas:** Lista de afazeres (*To-Do List*) baseada em terminal utilizando `ArrayList`, menus persistentes e gestão de índices.
+
+### 🔹 Métodos Estáticos e Modularização
+- **MetodosEstaticosExemplos:** Demonstração prática da divisão de código em sub-rotinas reutilizáveis.
+- **ConversorDeMedidas:** Utilitário modularizado para conversão de unidades (temperatura, distância e peso).
+- **ValidadorDeSenhas:** Serviço robusto de validação de regras de segurança combinando análise de caracteres e lógica booleana.
+- **CalculadoraDeFreteEComissao:** Sistema financeiro simulado com múltiplos parâmetros, tratamento de texto e regras de comissão.
 
 ## 🛠️ Tecnologias e Ferramentas
 
